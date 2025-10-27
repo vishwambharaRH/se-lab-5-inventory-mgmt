@@ -1,0 +1,18 @@
+************* Module updated_inventory_sys
+updated_inventory_sys.py:90:0: C0303: Trailing whitespace (trailing-whitespace)
+updated_inventory_sys.py:110:0: C0303: Trailing whitespace (trailing-whitespace)
+updated_inventory_sys.py:117:0: C0304: Final newline missing (missing-final-newline)
+updated_inventory_sys.py:1:0: C0114: Missing module docstring (missing-module-docstring)
+updated_inventory_sys.py:10:0: C0116: Missing function or method docstring (missing-function-docstring)
+updated_inventory_sys.py:26:0: C0116: Missing function or method docstring (missing-function-docstring)
+updated_inventory_sys.py:37:0: C0116: Missing function or method docstring (missing-function-docstring)
+updated_inventory_sys.py:42:0: C0116: Missing function or method docstring (missing-function-docstring)
+updated_inventory_sys.py:43:4: W0603: Using the global statement (global-statement)
+updated_inventory_sys.py:61:0: C0116: Missing function or method docstring (missing-function-docstring)
+updated_inventory_sys.py:72:0: C0116: Missing function or method docstring (missing-function-docstring)
+updated_inventory_sys.py:79:0: C0116: Missing function or method docstring (missing-function-docstring)
+updated_inventory_sys.py:87:0: C0116: Missing function or method docstring (missing-function-docstring)
+
+------------------------------------------------------------------
+Your code has been rated at 8.06/10 (previous run: 7.01/10, +1.04)
+
