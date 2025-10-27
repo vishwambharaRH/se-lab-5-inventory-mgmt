@@ -3,7 +3,7 @@
 This file contains the deliverables for the static code analysis lab.
 **Deliverable 1:** The cleaned code is saved as `updated_inventory_sys.py`.
 **Deliverable 2:** The issue-tracking table is below.
-**Deliverable 3:** The reflection questions and answers are at the bottom of this file.
+**Deliverable 3:** The reflection questions and answers are in reflection.md.
 
 ---
 
@@ -21,5 +21,5 @@ This table documents a minimum of four high- and medium-priority issues identifi
 ---
 
 ## Deliverable 3: Reflection
-Check [reflection.md]
+Check [a relative link](reflection.md)
 
