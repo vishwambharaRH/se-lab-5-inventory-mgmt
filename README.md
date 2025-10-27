@@ -21,5 +21,5 @@ This table documents a minimum of four high- and medium-priority issues identifi
 ---
 
 ## Deliverable 3: Reflection
-Check [a relative link](reflection.md)
+Check the file [reflection.md](reflection.md)
 
